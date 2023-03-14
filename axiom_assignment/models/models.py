@@ -3,9 +3,9 @@
 # from odoo import models, fields, api
 
 
-# class my-test-module(models.Model):
-#     _name = 'my-test-module.my-test-module'
-#     _description = 'my-test-module.my-test-module'
+# class axiom_assignment(models.Model):
+#     _name = 'axiom_assignment.axiom_assignment'
+#     _description = 'axiom_assignment.axiom_assignment'
 
 #     name = fields.Char()
 #     value = fields.Integer()
